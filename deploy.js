@@ -3,8 +3,8 @@ const Web3 = require('web3');
 const {interface, bytecode } = require('./compile');
 
 const provider = new HDWalletProvider(
-    'fire ghost payment virtual chunk lion maid build garment drama antique vintage',
-    'https://ropsten.infura.io/v3/d2150f7429e647c08ebab549103a9309'
+    ' 12 phase words',
+    'ropsten URL'
 );
 const web3 = new Web3(provider);
 
